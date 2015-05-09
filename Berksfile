@@ -1,3 +1,3 @@
 site :opscode
 
-cookbook 'My-MongoDB'
+cookbook 'mongodb'
